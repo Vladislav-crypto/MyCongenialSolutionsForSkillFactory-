@@ -1,0 +1,2 @@
+# MyCongenialSolutionsForSkillFactory-
+Be careful, codesmell
